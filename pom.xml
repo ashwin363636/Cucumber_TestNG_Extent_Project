@@ -8,39 +8,32 @@
     <version>1.0-SNAPSHOT</version>
 
     <profiles>
-        <!-- Development environment @ my local machine -->
+        <!-- Sequential runner -->
         <profile>
-            <id>dev</id>
+            <id>seq</id>
             <activation>
-                <activeByDefault>true</activeByDefault>
+                <property>
+                    <name>executiontype</name>
+                    <value>seq</value>
+                </property>
             </activation>
             <properties>
                 <profile.path>/profiles/dev/config.properties</profile.path>
-                <testToRun>**/*WebATSuite*.class</testToRun>
+                <testToRun>**/*tialRunner*.class</testToRun>
             </properties>
         </profile>
-        <!-- Single Test -->
+        <!-- Parallel runner -->
         <profile>
-            <id>single</id>
+            <id>par</id>
+            <activation>
+                <property>
+                    <name>executiontype</name>
+                    <value>par</value>
+                </property>
+            </activation>
             <properties>
-                <profile.path>/profiles/single/config.properties</profile.path>
-                <testToRun>**/*SingleSuite.class</testToRun>
-            </properties>
-        </profile>
-        <!-- Jenkins environment @ deploy server normally configured on linux -->
-        <profile>
-            <id>jenkins</id>
-            <properties>
-                <profile.path>/profiles/jenkins/config.properties</profile.path>
-                <testToRun>**/*JenkinsSuite.class</testToRun>
-            </properties>
-        </profile>
-        <!-- Running tets on mobile -->
-        <profile>
-            <id>mobile</id>
-            <properties>
-                <profile.path>/profiles/mobile/config.properties</profile.path>
-                <testToRun>**/*RunWebAppSuite.class</testToRun>
+                <profile.path>/profiles/dev/config.properties</profile.path>
+                <testToRun>**/*llelRunner*.class</testToRun>
             </properties>
         </profile>
     </profiles>
@@ -161,7 +154,7 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                            <projectName>cucumbertests</projectName>
+                            <projectName>Cucumber_TestNG_Extent_Project</projectName>
                             <outputDirectory>target/cucumber-report/cucumber-html-reports</outputDirectory>
                             <cucumberOutput>target/cucumber-report/cucumber.json</cucumberOutput>
                             <!--
