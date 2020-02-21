@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6200a67d-c8b7-481d-8953-a27a01d92486" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V3pqp5NqJ3M3SfwpYPKzHFh5Wr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowLog Viewer.ShowToolbar" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cucumber.testng.page_objects.web" />
+      <recent name="com.cucumber.testng.action" />
+      <recent name="com.cucumber.testng.model" />
+      <recent name="com.cucumber.testng.runner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Cucumber_TestNG_Extent_Project" />
+      <recent name="C:\Cucumber_TestNG_Extent_Project\src\main\java\com\cucumber\testng\model" />
+      <recent name="C:\Cucumber_TestNG_Extent_Project\src\main\java\com\cucumber\testng\page_objects\api" />
+      <recent name="C:\Cucumber_TestNG_Extent_Project\src\main\java\com\cucumber\testng\utilities\application_utils\api_utils" />
+      <recent name="C:\Cucumber_TestNG_Extent_Project\src\test\java\com\cucumber\testng\action" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cucumber.testng" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cucumber.testng.runner" />
+      <recent name="com.cucumber.testng.runner.testng_listeners" />
+      <recent name="com.cucumber.testng.project_constants.enams" />
+      <recent name="com.cucumber.testng.configs.browser_configs" />
+      <recent name="com.cucumber.testng.utilities.log_utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Cucumber_TestNG_Extent_Project\src\test\resources\features\api_features\api_features_2" />
+      <recent name="C:\Cucumber_TestNG_Extent_Project\src\test\resources\features\api_features\api_feature_1" />
+      <recent name="C:\Cucumber_TestNG_Extent_Project\src\test\resources" />
+      <recent name="C:\Cucumber_TestNG_Extent_Project" />
+      <recent name="C:\Cucumber_TestNG_Extent_Project\src\main\java\com\cucumber\testng\utilities\extentreports" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Remote.Runner">
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Cucumber_TestNG_Extent_Project" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Web2" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/web_features/web_features_2/Web2.feature" />
+      <option name="GLUE" value="com.cucumber.testng.stepdef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber_TestNG_Extent_Project" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Web2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Create a new Box 4" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/api_features/api_features_2/API3.feature" />
+      <option name="GLUE" value="com.cucumber.testng.stepdef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber_TestNG_Extent_Project" />
+      <option name="NAME_FILTER" value="^Create a new Box 4$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Create a new Box 4$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Create a new Box 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Create a new Box" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/web_features/web_features_2/Web2.feature" />
+      <option name="GLUE" value="com.cucumber.testng.stepdef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber_TestNG_Extent_Project" />
+      <option name="NAME_FILTER" value="^Create a new Box$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Create a new Box$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Create a new Box" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mvn" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dmaven.surefire.debug" />
+                <option value="-Dtest=" />
+                <option value="-Dfailsafe.rerunFailingTestsCount=3" />
+                <option value="-DMode=Debug" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Runner" type="Remote">
+      <module name="Cucumber_TestNG_Extent_Project" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ParallelRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber_TestNG_Extent_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cucumber.testng.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cucumber.testng.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.cucumber.testng.runner.ParallelRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequentialRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cucumber_TestNG_Extent_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cucumber.testng.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cucumber.testng.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.cucumber.testng.runner.SequentialRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: Login" />
+      <item itemvalue="Cucumber java.Feature: Web2" />
+      <item itemvalue="Cucumber java.Scenario: Create a new Box" />
+      <item itemvalue="Cucumber java.Scenario: Create a new Box 4" />
+      <item itemvalue="Maven.mvn" />
+      <item itemvalue="Remote.Runner" />
+      <item itemvalue="TestNG.ParallelRunner" />
+      <item itemvalue="TestNG.SequentialRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SequentialRunner" />
+        <item itemvalue="Cucumber java.Scenario: Create a new Box 4" />
+        <item itemvalue="Cucumber java.Feature: Web2" />
+        <item itemvalue="Cucumber java.Scenario: Create a new Box" />
+        <item itemvalue="TestNG.ParallelRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6200a67d-c8b7-481d-8953-a27a01d92486" name="Default Changelist" comment="" />
+      <created>1576491825908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576491825908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="75" key="#Inspections" timestamp="1579759347785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="75" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1579759347785" />
+    <state x="361" y="73" key="#Notifications" timestamp="1576710259323">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1576710259323" />
+    <state x="2472" y="241" key="#Project_Structure" timestamp="1576563562067">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2472" y="241" key="#Project_Structure/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1576563562067" />
+    <state x="2199" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582088386387">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2199" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576976131040" />
+    <state x="2199" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582088386387" />
+    <state x="2199" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582083857429" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1580180049204" />
+    <state x="2613" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576968375951">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2613" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576968375951" />
+    <state x="2638" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1582081098597">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2638" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582081098597" />
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1576715220486" />
+    <state x="499" y="193" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1579819937477">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="193" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1579819937477" />
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576749946219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1576749946219" />
+    <state x="512" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579823705931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2560" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576965021594" />
+    <state x="512" y="204" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1579823705931" />
+    <state x="2326" y="480" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581992157421">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2326" y="480" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1581992157421" />
+    <state x="325" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1579565219693" />
+    <state x="2681" y="470" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581992158984">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2681" y="470" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1581992158984" />
+    <state x="2544" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582071322413">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2544" y="229" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582071322413" />
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580174198249" />
+    <state x="2606" y="247" key="FileChooserDialogImpl" timestamp="1582076680962">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2606" y="215" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576975390232" />
+    <state x="2606" y="239" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582068346543" />
+    <state x="2606" y="247" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582076680962" />
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580180269894" />
+    <state width="1877" height="493" key="GridCell.Tab.0.bottom" timestamp="1582157025623">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="369" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577136629725" />
+    <state width="1877" height="493" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582157025623" />
+    <state width="1877" height="493" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582085519381" />
+    <state width="1493" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580180799368" />
+    <state width="1877" height="493" key="GridCell.Tab.0.center" timestamp="1582157025623">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="369" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577136629725" />
+    <state width="1877" height="493" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582157025623" />
+    <state width="1877" height="493" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582085519381" />
+    <state width="1493" height="282" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580180799368" />
+    <state width="1877" height="493" key="GridCell.Tab.0.left" timestamp="1582157025623">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="369" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577136629725" />
+    <state width="1877" height="493" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582157025623" />
+    <state width="1877" height="493" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582085519381" />
+    <state width="1493" height="282" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580180799368" />
+    <state width="1877" height="493" key="GridCell.Tab.0.right" timestamp="1582157025623">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="369" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577136629725" />
+    <state width="1877" height="493" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582157025623" />
+    <state width="1877" height="493" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582085519381" />
+    <state width="1493" height="282" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580180799368" />
+    <state width="1877" height="493" key="GridCell.Tab.1.bottom" timestamp="1582157025623">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576977413562" />
+    <state width="1877" height="493" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582157025623" />
+    <state width="1877" height="493" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582085519381" />
+    <state width="1493" height="282" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580180799266" />
+    <state width="1877" height="493" key="GridCell.Tab.1.center" timestamp="1582157025623">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576977413561" />
+    <state width="1877" height="493" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582157025623" />
+    <state width="1877" height="493" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582085519381" />
+    <state width="1493" height="282" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580180799266" />
+    <state width="1877" height="493" key="GridCell.Tab.1.left" timestamp="1582157025623">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576977413561" />
+    <state width="1877" height="493" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582157025623" />
+    <state width="1877" height="493" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582085519381" />
+    <state width="1493" height="282" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580180799266" />
+    <state width="1877" height="493" key="GridCell.Tab.1.right" timestamp="1582157025623">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576977413561" />
+    <state width="1877" height="493" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582157025623" />
+    <state width="1877" height="493" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582085519381" />
+    <state width="1493" height="282" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580180799266" />
+    <state x="2294" y="100" key="Maven.ArtifactSearchDialog" timestamp="1581991789720">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2294" y="100" key="Maven.ArtifactSearchDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1581991789720" />
+    <state x="299" y="71" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1579570211053" />
+    <state x="2239" y="201" key="SettingsEditor" timestamp="1582086031967">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2266" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576976203640" />
+    <state x="2266" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1581991260424" />
+    <state x="2239" y="201" key="SettingsEditor/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582086031967" />
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579064713524" />
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581995319739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1580175913390" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1580175141251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2501" y="298" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576968512889" />
+    <state x="2501" y="332" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1576563538145" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580175141251" />
+    <state x="426" y="63" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579660326007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="63" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1579660326007" />
+    <state x="540" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1576715144854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1576715144854" />
+    <state x="828" y="210" width="538" height="445" key="extract.method.dialog" timestamp="1580176443485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="828" y="210" width="538" height="445" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1580176443485" />
+    <state x="2813" y="28" width="892" height="1172" key="find.popup" timestamp="1582078143676">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2813" y="28" width="892" height="1132" key="find.popup/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1581992756126" />
+    <state x="2813" y="28" width="892" height="1172" key="find.popup/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582078143676" />
+    <state x="714" y="20" width="713" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580176142878" />
+    <state x="477" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1579836540352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1579836540352" />
+    <state x="2459" y="211" width="840" height="988" key="search.everywhere.popup" timestamp="1582082538083">
+      <screen x="1920" y="0" width="1920" height="1200" />
+    </state>
+    <state x="2459" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576826493842" />
+    <state x="2459" y="204" width="840" height="955" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1582070542362" />
+    <state x="2459" y="211" width="840" height="988" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1200@1920.0.1920.1200" timestamp="1582082538083" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580179993692" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="APIHelper.getResponseWriterList().toString()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
